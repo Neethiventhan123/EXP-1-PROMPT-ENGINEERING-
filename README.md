@@ -19,7 +19,7 @@ Generative AI impact of scaling in LLMs.
 7. Summarize findings with real-world examples.
 
 ## Output
-1. Generative AI can generate realistic new data such as human-like text, lifelike images, synthetic voices, and even protein structures.
+1.Generative AI can generate realistic new data such as human-like text, lifelike images, synthetic voices, and even protein structures.
 
 2.Transformers solved the limitations of RNNs and LSTMs by introducing attention, enabling models to handle long sequences efficiently.
 
