@@ -10,74 +10,33 @@ Generative AI applications.
 Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
-Understand Generative AI Basics
-
-Study how Generative AI models learn from large datasets.
-
-Explore the difference between discriminative and generative models.
-
-Explore Generative AI Architectures
-
-Learn about neural networks, RNNs, CNNs, and how they evolved into Transformers.
-
-Study Transformer components (Attention, Encoder-Decoder).
-
-Identify Generative AI Applications
-
-Text generation, image synthesis, coding assistants, chatbots, drug discovery, etc.
-
-Analyze the Scaling Impact of LLMs
-
-Understand scaling laws: larger models → better performance.
-
-Explore efficiency, resource consumption, and emergent abilities.
-
-Summarize Findings
-
-Prepare detailed notes with examples of real-world applications (ChatGPT, DALL·E, Codex, etc.).
+1. Study fundamentals of Generative AI.
+2. Differentiate discriminative and generative models.
+3. Understand generative architectures (RNN → LSTM → Transformer).
+4. Explore Transformer components (Attention, Encoder-Decoder).
+5. Identify applications of Generative AI in various domains.
+6. Analyze scaling laws and impact on LLMs.
+7. Summarize findings with real-world examples.
 
 ## Output
-1. Foundational Concepts of Generative AI
+1. Generative AI can generate realistic new data such as human-like text, lifelike images, synthetic voices, and even protein structures.
 
-Generative AI focuses on creating new data samples that mimic real-world data.
+2.Transformers solved the limitations of RNNs and LSTMs by introducing attention, enabling models to handle long sequences efficiently.
 
-It learns probability distributions and can generate novel outputs (text, images, music).
+3.Large Language Models (LLMs) like GPT, BERT, and PaLM show advanced capabilities in text comprehension, reasoning, coding, and conversation.
 
-Unlike discriminative models (which classify data), generative models produce new data.
+4.Applications observed:
+• Text generation → ChatGPT, summarizers, translators.
+• Image generation → DALL·E, MidJourney, Stable Diffusion.
+• Code generation → GitHub Copilot, Codex.
+• Healthcare → AlphaFold for protein folding, AI in drug design.
+• Creative industries → script writing, music generation, design.
 
-2. Architectures (Transformers)
-
-Early Architectures: RNNs, LSTMs, CNNs (limited in long-context tasks).
-
-Transformers: Introduced in 2017 ("Attention is All You Need").
-
-Key Features: Self-attention, positional encoding, scalability.
-
-LLMs (e.g., GPT, BERT): Built on transformer architecture.
-
-Advantage: Handle large text efficiently, support parallel training.
-
-3. Applications of Generative AI
-
-Text: ChatGPT, translation, summarization.
-
-Vision: DALL·E, Stable Diffusion (image generation).
-
-Code: GitHub Copilot, Codex.
-
-Healthcare: Protein folding (AlphaFold), drug discovery.
-
-Business: Virtual assistants, content creation, data augmentation.
-
-4. Impact of Scaling in LLMs
-
-Larger models → higher accuracy, emergent reasoning abilities.
-
-Scaling laws show predictable improvements with more parameters and training data.
-
-Trade-offs: computational cost, energy consumption, ethical concerns.
-
-Example: GPT-2 → GPT-3 → GPT-4 (exponential improvement in reasoning & creativity).
+5.Scaling Impact:
+• Larger models demonstrate “emergent abilities” (solving tasks they were not directly trained for).
+• Performance improves predictably with more data, compute, and parameters (Scaling Laws).
+• Example: GPT-2 (1.5B parameters) → GPT-3 (175B parameters) → GPT-4 (multi-modal, reasoning).
+• Challenges include high energy use, environmental cost, training data bias, and ethical misuse.
 
 
 ## Result
